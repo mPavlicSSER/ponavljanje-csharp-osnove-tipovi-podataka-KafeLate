@@ -1,5 +1,9 @@
 # PONAVLJANJE – C# ulaz/izlaz i tipovi podataka 
 
+## LINK NA MATERIJALE ZA RJEŠAVANJE ZADATAKA
+[Link na Materijale]([https://link-url-here.org](https://drive.google.com/drive/folders/1IQLyg9t88PuaVTo6S0clQQ7wCdfEaHVs))
+
+
 ✅ Svaki zadatak je u svom folderu (svaki folder je poseban .NET konzolni projekt).
 
 ✅ Tekst zadatka je napisan u komentarima u Program.cs.
